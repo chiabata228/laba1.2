@@ -1,0 +1,3 @@
+﻿  Car.cpp
+Cars.obj : error LNK2001: неразрешенный внешний символ "private: static class Car * Cars::cars" (?cars@Cars@@0PEAVCar@@EA).
+E:\УСПЄХ\ооп\laba1.2\x64\Debug\laba1.2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
